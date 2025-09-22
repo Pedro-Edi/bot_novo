@@ -1,0 +1,10 @@
+# Ignorar o diretório .env
+.env/
+.env
+# Ignorar arquivos de cache do Python
+__pycache__/
+
+# Ignorar o ambiente virtual
+venv/
+.venv
+https://discord.com/users/1317166416993976322
